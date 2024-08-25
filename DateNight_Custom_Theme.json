@@ -1,0 +1,66 @@
+{
+    "name": "DateNight-Themed Custom Enmity",
+    "description": "A theme based on the requested image with teal and dark accents.",
+    "authors": [
+        {
+            "name": "ChatGPT",
+            "id": "000000000000000000"
+        }
+    ],
+    "background": {
+        "url": "https://pbs.twimg.com/media/FLG4qbPaMAAYq-I?format=jpg&name=large",
+        "alpha": 0.7,
+        "blur": 0.4
+    },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#56abba"
+        ],
+        "HEADER_SECONDARY": [
+            "#8c8085"
+        ],
+        "TEXT_NORMAL": [
+            "#eeded4"
+        ],
+        "TEXT_PRIMARY": [
+            "#eeded4"
+        ],
+        "TEXT_MUTED": [
+            "#8c8085"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#56abba"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#3a7489"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#d5b1af"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#121223"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#262f3d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#274b5c"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4f5566"
+        ],
+        "TEXT_LINK": [
+            "#56abba"
+        ],
+        "TEXT_DANGER": [
+            "#d5b1af"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#56abba",
+        "PRIMARY_200": "#d5b1af",
+        "PRIMARY_300": "#3a7489",
+        "PRIMARY_600": "#262f3d",
+        "PRIMARY_800": "#121223"
+    }
+}
